@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡_Hello_World!-00e5ff?style=for-the-badge" alt="Hello World" height="60" />
+# `Hello World!`
 
 </div>
 
@@ -23,8 +23,6 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudqlszang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudqlszang&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=rudqlszang&theme=tokyonight&hide_border=true" />
 
 </div>
 
