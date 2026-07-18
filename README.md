@@ -17,12 +17,21 @@
 
 ---
 
-### 📊 GitHub 통계
+### 🏆 트로피
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudqlszang&show_icons=false&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudqlszang&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=rudqlszang&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+---
+
+### 📈 활동 그래프
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudqlszang&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
