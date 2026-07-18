@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD166&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+JANGKYUNGBIN;Building+things+for+fun;Just+shipped+FLY+Cannon+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/rudqlszang?label=Follow&style=social)](https://github.com/rudqlszang)
-![Profile views](https://komarev.com/ghpvc/?username=rudqlszang&color=ffd166&style=flat-square&label=Profile+views)
+<img src="https://img.shields.io/badge/⚡_Hello_World!-00e5ff?style=for-the-badge" alt="Hello World" height="60" />
 
 </div>
 
