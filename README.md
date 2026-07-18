@@ -24,8 +24,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudqlszang&show_icons=false&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudqlszang&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=rudqlszang&theme=tokyonight&hide_border=true&hide=null" />
-
 </div>
 
 ---
