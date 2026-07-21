@@ -22,33 +22,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/6%EC%8B%9C%EA%B7%B8%EB%A7%88%20BB%201%EA%B8%89-16a34a?style=for-the-badge" />
 
-<table align="center">
-<tr>
-<td align="center" width="110"><b>통신</b></td>
-<td>전파손실 모델링&nbsp; · &nbsp;기지국 커버리지&nbsp; · &nbsp;트래픽 수요 예측<br>
-<sub><code>Okumura-Hata</code> <code>SARIMAX</code> <code>DEAP</code></sub></td>
-</tr>
-<tr>
-<td align="center"><b>전기 · 로봇</b></td>
-<td>제어 시스템&nbsp; · &nbsp;센서 신호 처리&nbsp; · &nbsp;자동화 설비<br>
-<sub><code>전기기사</code> <code>PLC</code> <code>ROS</code></sub></td>
-</tr>
-<tr>
-<td align="center"><b>반도체</b></td>
-<td>공정 데이터 분석&nbsp; · &nbsp;수율 개선&nbsp; · &nbsp;계측 산포 관리<br>
-<sub><code>Yield</code> <code>Cpk</code> <code>FDC</code></sub></td>
-</tr>
-<tr>
-<td align="center"><b>인공지능</b></td>
-<td>머신러닝 예측 모델&nbsp; · &nbsp;이상 탐지&nbsp; · &nbsp;최적화 알고리즘<br>
-<sub><code>scikit-learn</code> <code>XGBoost</code> <code>DEAP</code></sub></td>
-</tr>
-<tr>
-<td align="center"><b>데이터 분석</b></td>
-<td>6시그마 DMAIC&nbsp; · &nbsp;통계적 공정관리&nbsp; · &nbsp;실험계획법&nbsp; · &nbsp;시계열 예측<br>
-<sub><code>6시그마 BB</code> <code>pandas</code> <code>scikit-learn</code> <code>statsmodels</code> <code>Minitab</code></sub></td>
-</tr>
-</table>
+**통신** &nbsp;·&nbsp; 전파손실 모델링 &nbsp;·&nbsp; 기지국 커버리지 &nbsp;·&nbsp; 트래픽 수요 예측 &nbsp;&nbsp; <sub>`Okumura-Hata` `SARIMAX` `DEAP`</sub>
+
+**전기 · 로봇** &nbsp;·&nbsp; 제어 시스템 &nbsp;·&nbsp; 센서 신호 처리 &nbsp;·&nbsp; 자동화 설비 &nbsp;&nbsp; <sub>`전기기사` `PLC` `ROS`</sub>
+
+**반도체** &nbsp;·&nbsp; 공정 데이터 분석 &nbsp;·&nbsp; 수율 개선 &nbsp;·&nbsp; 계측 산포 관리 &nbsp;&nbsp; <sub>`Yield` `Cpk` `FDC`</sub>
+
+**인공지능** &nbsp;·&nbsp; 머신러닝 예측 모델 &nbsp;·&nbsp; 이상 탐지 &nbsp;·&nbsp; 최적화 알고리즘 &nbsp;&nbsp; <sub>`scikit-learn` `XGBoost` `DEAP`</sub>
+
+**데이터 분석** &nbsp;·&nbsp; 6시그마 DMAIC &nbsp;·&nbsp; 통계적 공정관리 &nbsp;·&nbsp; 실험계획법 &nbsp;·&nbsp; 시계열 예측 &nbsp;&nbsp; <sub>`pandas` `statsmodels` `Minitab`</sub>
 
 </div>
 
