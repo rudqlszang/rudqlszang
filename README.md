@@ -18,9 +18,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/6%EC%8B%9C%EA%B7%B8%EB%A7%88%20BB%201%EA%B8%89-16a34a?style=for-the-badge" />
 
-</div>
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="110"><b>통신</b></td>
 <td>전파손실 모델링&nbsp; · &nbsp;기지국 커버리지&nbsp; · &nbsp;트래픽 수요 예측<br>
@@ -42,6 +40,8 @@
 <sub><code>6시그마 BB</code> <code>pandas</code> <code>scikit-learn</code> <code>statsmodels</code> <code>Minitab</code></sub></td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
