@@ -1,57 +1,34 @@
 <div align="center">
 
-# `Hello World!`
+# JANGKYUNGBIN
+
+**무선 네트워크를 데이터로 최적화합니다**
+
+커버리지 시뮬레이션 · 트래픽 예측 · 공정 품질 분석
 
 </div>
 
----
+<br>
 
-### 🎮 최근 작업
+### Projects
 
-[![FLY Cannon](https://img.shields.io/badge/▶_지금_플레이하기-fly--cannon.vercel.app-4ea1ff?style=for-the-badge)](https://fly-cannon.vercel.app)
+**[rf-coverage-optimization](https://github.com/rudqlszang/rf-coverage-optimization)** &nbsp;·&nbsp; 전파손실 모델 기반 기지국 배치 최적화
+유전 알고리즘(DEAP)으로 인구 커버율 **33% → 90%**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser_3-8b5cf6?style=flat-square&logo=phaser&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**[cell-traffic-forecasting](https://github.com/rudqlszang/cell-traffic-forecasting)** &nbsp;·&nbsp; Capacity Planning 파이프라인
+SARIMAX 시계열 예측으로 기지국 증설 시점 산출
 
----
+**[fly-cannon](https://github.com/rudqlszang/fly-cannon)** &nbsp;·&nbsp; 실시간 멀티플레이 웹 게임
+Phaser 3 + Socket.io &nbsp;·&nbsp; [**▶ 플레이**](https://fly-cannon.vercel.app)
 
-### 📊 GitHub 통계
+<br>
 
-<div align="center">
+### Stack
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rudqlszang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudqlszang&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,git&theme=dark" height="40" />
 
-<img src="https://streak-stats.demolab.com?user=rudqlszang&theme=tokyonight&hide_border=true" />
+`pandas` &nbsp;`scikit-learn` &nbsp;`statsmodels` &nbsp;`DEAP` &nbsp;`Jupyter`
 
-</div>
+<br>
 
----
-
-### 📈 활동 그래프
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudqlszang&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
----
-
-### 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-made with 🔥 by **JANGKYUNGBIN**
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudqlszang&theme=github-compact&hide_border=true&hide_title=true&area=true&color=8b949e&line=58a6ff&point=58a6ff&bg_color=00000000" width="100%" />
