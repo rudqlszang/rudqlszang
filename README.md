@@ -2,7 +2,7 @@
 
 # `Hello World!`
 
-**통신 · 전기 · 로봇 · 반도체 · 데이터 분석**
+**통신 · 전기 · 로봇 · 반도체 · 인공지능 · 데이터 분석**
 
 산업 현장의 문제를 데이터와 최적화로 풉니다
 
@@ -37,6 +37,11 @@
 <td align="center"><b>반도체</b></td>
 <td>공정 데이터 분석&nbsp; · &nbsp;수율 개선&nbsp; · &nbsp;계측 산포 관리<br>
 <sub><code>Yield</code> <code>Cpk</code> <code>FDC</code></sub></td>
+</tr>
+<tr>
+<td align="center"><b>인공지능</b></td>
+<td>머신러닝 예측 모델&nbsp; · &nbsp;이상 탐지&nbsp; · &nbsp;최적화 알고리즘<br>
+<sub><code>scikit-learn</code> <code>XGBoost</code> <code>DEAP</code></sub></td>
 </tr>
 <tr>
 <td align="center"><b>데이터 분석</b></td>
