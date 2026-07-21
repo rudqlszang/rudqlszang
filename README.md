@@ -10,7 +10,11 @@
 
 <br>
 
+<div align="center">
+
 ### Domains
+
+</div>
 
 <div align="center">
 
@@ -45,27 +49,82 @@
 
 <br>
 
+<div align="center">
+
 ### Projects
 
-**[rf-coverage-optimization](https://github.com/rudqlszang/rf-coverage-optimization)** &nbsp;·&nbsp; 기지국 배치 최적화
-전파손실 모델 + 유전 알고리즘(DEAP)으로 인구 커버율 **33% → 90%**
+</div>
 
-**[cell-traffic-forecasting](https://github.com/rudqlszang/cell-traffic-forecasting)** &nbsp;·&nbsp; Capacity Planning
-SARIMAX 시계열 예측으로 기지국 증설 시점 산출
+<div align="center">
 
-**[bosch_6sigma_dmaic](https://github.com/rudqlszang/bosch_6sigma_dmaic)** &nbsp;·&nbsp; 제조 공정 품질 개선
-DMAIC 기반 불량 요인 분석 및 공정 능력 개선
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**[fly-cannon](https://github.com/rudqlszang/fly-cannon)** &nbsp;·&nbsp; 실시간 멀티플레이 웹 게임
-Phaser 3 + Socket.io &nbsp;·&nbsp; [**플레이**](https://fly-cannon.vercel.app)
+**[rf-coverage-optimization](https://github.com/rudqlszang/rf-coverage-optimization)**
+
+기지국 배치 최적화 · 전파손실 모델과 유전 알고리즘으로 최적 위치 탐색
+
+<img src="https://img.shields.io/badge/%EC%BB%A4%EB%B2%84%EC%9C%A8%2033%25%20%E2%86%92%2090%25-16a34a?style=flat-square" />
+
+<sub><code>Python</code> <code>DEAP</code> <code>GeoPandas</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[cell-traffic-forecasting](https://github.com/rudqlszang/cell-traffic-forecasting)**
+
+Capacity Planning · 트래픽 수요를 예측해 기지국 증설 시점 산출
+
+<img src="https://img.shields.io/badge/SARIMAX%20%EC%8B%9C%EA%B3%84%EC%97%B4-0b6cff?style=flat-square" />
+
+<sub><code>Python</code> <code>statsmodels</code> <code>pandas</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[bosch_6sigma_dmaic](https://github.com/rudqlszang/bosch_6sigma_dmaic)**
+
+제조 공정 품질 개선 · DMAIC 기반 불량 요인 분석과 공정 능력 향상
+
+<img src="https://img.shields.io/badge/6%EC%8B%9C%EA%B7%B8%EB%A7%88%20DMAIC-7c3aed?style=flat-square" />
+
+<sub><code>Python</code> <code>scikit-learn</code> <code>Minitab</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[fly-cannon](https://github.com/rudqlszang/fly-cannon)**
+
+실시간 멀티플레이 웹 게임 · 서버 권위형 동기화 구조
+
+<a href="https://fly-cannon.vercel.app"><img src="https://img.shields.io/badge/%EC%A7%80%EA%B8%88%20%ED%94%8C%EB%A0%88%EC%9D%B4-f59e0b?style=flat-square" /></a>
+
+<sub><code>Phaser 3</code> <code>Socket.io</code> <code>Node.js</code></sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
+<div align="center">
+
 ### Stack
+
+</div>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,git&theme=dark" height="40" />
 
 `pandas` &nbsp;`scikit-learn` &nbsp;`statsmodels` &nbsp;`DEAP` &nbsp;`Minitab` &nbsp;`Jupyter`
+
+</div>
 
 <br>
 
