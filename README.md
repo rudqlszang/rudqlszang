@@ -12,12 +12,34 @@
 
 ### Domains
 
-| | |
-|:--|:--|
-| **통신** | 전파 전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측 |
-| **전기 · 로봇** | 제어 시스템 · 센서 신호 처리 · 자동화 설비 |
-| **반도체** | 공정 데이터 분석 · 수율 개선 · 계측 산포 관리 |
-| **품질관리** | 6시그마 DMAIC · SPC 관리도 · 실험계획법(DOE) |
+<div align="center">
+
+<img src="https://img.shields.io/badge/%EC%A0%84%EA%B8%B0%EA%B8%B0%EC%82%AC-Certified-0b6cff?style=for-the-badge&logo=zap&logoColor=white" />
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="90"><h3>📡</h3><b>통신</b></td>
+<td>전파손실 모델링&nbsp; · &nbsp;기지국 커버리지&nbsp; · &nbsp;트래픽 수요 예측<br>
+<sub><code>Okumura-Hata</code> <code>SARIMAX</code> <code>DEAP</code></sub></td>
+</tr>
+<tr>
+<td align="center"><h3>⚡</h3><b>전기 · 로봇</b></td>
+<td>제어 시스템&nbsp; · &nbsp;센서 신호 처리&nbsp; · &nbsp;자동화 설비<br>
+<sub><code>전기기사</code> <code>PLC</code> <code>ROS</code></sub></td>
+</tr>
+<tr>
+<td align="center"><h3>🔬</h3><b>반도체</b></td>
+<td>공정 데이터 분석&nbsp; · &nbsp;수율 개선&nbsp; · &nbsp;계측 산포 관리<br>
+<sub><code>Yield</code> <code>Cpk</code> <code>FDC</code></sub></td>
+</tr>
+<tr>
+<td align="center"><h3>📊</h3><b>품질관리</b></td>
+<td>6시그마 DMAIC&nbsp; · &nbsp;SPC 관리도&nbsp; · &nbsp;실험계획법<br>
+<sub><code>DMAIC</code> <code>SPC</code> <code>DOE</code> <code>Minitab</code></sub></td>
+</tr>
+</table>
 
 <br>
 
