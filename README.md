@@ -19,11 +19,11 @@
 ### Domains
 
 <table align="center">
-<tr><td align="right"><b>통신</b></td><td><sub>전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측</sub></td></tr>
-<tr><td align="right"><b>전기 · 로봇</b></td><td><sub>제어 시스템 · 이동로봇 주행 · 자동화 설비</sub></td></tr>
-<tr><td align="right"><b>반도체</b></td><td><sub>공정 데이터 분석 · 수율 개선 · 계측 산포 관리</sub></td></tr>
-<tr><td align="right"><b>인공지능</b></td><td><sub>머신러닝 예측 모델 · 이상 탐지 · 최적화 알고리즘</sub></td></tr>
-<tr><td align="right"><b>데이터 분석</b></td><td><sub>6시그마 DMAIC · 통계적 공정관리 · 시계열 예측</sub></td></tr>
+<tr><td align="center"><b>통신</b></td><td align="center"><sub>전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측</sub></td></tr>
+<tr><td align="center"><b>전기 · 로봇</b></td><td align="center"><sub>제어 시스템 · 이동로봇 주행 · 자동화 설비</sub></td></tr>
+<tr><td align="center"><b>반도체</b></td><td align="center"><sub>공정 데이터 분석 · 수율 개선 · 계측 산포 관리</sub></td></tr>
+<tr><td align="center"><b>인공지능</b></td><td align="center"><sub>머신러닝 예측 모델 · 이상 탐지 · 최적화 알고리즘</sub></td></tr>
+<tr><td align="center"><b>데이터 분석</b></td><td align="center"><sub>6시그마 DMAIC · 통계적 공정관리 · 시계열 예측</sub></td></tr>
 </table>
 
 </div>
