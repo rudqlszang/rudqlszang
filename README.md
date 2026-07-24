@@ -18,19 +18,20 @@
 
 ### Domains
 
-</div>
+**통신**<br>
+<sub>전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측</sub>
 
-<div align="left">
+**전기 · 로봇**<br>
+<sub>제어 시스템 · 이동로봇 주행 · 자동화 설비</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**통신**　　　·&nbsp; <sub>전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측</sub>
+**반도체**<br>
+<sub>공정 데이터 분석 · 수율 개선 · 계측 산포 관리</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**전기 · 로봇**·&nbsp; <sub>제어 시스템 · 이동로봇 주행 · 자동화 설비</sub>
+**인공지능**<br>
+<sub>머신러닝 예측 모델 · 이상 탐지 · 최적화 알고리즘</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**반도체**　　·&nbsp; <sub>공정 데이터 분석 · 수율 개선 · 계측 산포 관리</sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**인공지능**　·&nbsp; <sub>머신러닝 예측 모델 · 이상 탐지 · 최적화 알고리즘</sub>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**데이터 분석**·&nbsp; <sub>6시그마 DMAIC · 통계적 공정관리 · 시계열 예측</sub>
+**데이터 분석**<br>
+<sub>6시그마 DMAIC · 통계적 공정관리 · 시계열 예측</sub>
 
 </div>
 
