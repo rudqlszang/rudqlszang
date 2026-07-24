@@ -18,15 +18,13 @@
 
 ### Domains
 
-<img src="https://img.shields.io/badge/%ED%86%B5%EC%8B%A0-0b6cff?style=for-the-badge" /> &nbsp; <sub>전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측</sub>
-
-<img src="https://img.shields.io/badge/%EC%A0%84%EA%B8%B0%C2%B7%EB%A1%9C%EB%B4%87-ea580c?style=for-the-badge" /> &nbsp; <sub>제어 시스템 · 이동로봇 주행 · 자동화 설비</sub>
-
-<img src="https://img.shields.io/badge/%EB%B0%98%EB%8F%84%EC%B2%B4-7c3aed?style=for-the-badge" /> &nbsp; <sub>공정 데이터 분석 · 수율 개선 · 계측 산포 관리</sub>
-
-<img src="https://img.shields.io/badge/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-0891b2?style=for-the-badge" /> &nbsp; <sub>머신러닝 예측 모델 · 이상 탐지 · 최적화 알고리즘</sub>
-
-<img src="https://img.shields.io/badge/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D-16a34a?style=for-the-badge" /> &nbsp; <sub>6시그마 DMAIC · 통계적 공정관리 · 시계열 예측</sub>
+<table align="center">
+<tr><td align="right"><b>통신</b></td><td><sub>전파손실 모델링 · 기지국 커버리지 · 트래픽 수요 예측</sub></td></tr>
+<tr><td align="right"><b>전기 · 로봇</b></td><td><sub>제어 시스템 · 이동로봇 주행 · 자동화 설비</sub></td></tr>
+<tr><td align="right"><b>반도체</b></td><td><sub>공정 데이터 분석 · 수율 개선 · 계측 산포 관리</sub></td></tr>
+<tr><td align="right"><b>인공지능</b></td><td><sub>머신러닝 예측 모델 · 이상 탐지 · 최적화 알고리즘</sub></td></tr>
+<tr><td align="right"><b>데이터 분석</b></td><td><sub>6시그마 DMAIC · 통계적 공정관리 · 시계열 예측</sub></td></tr>
+</table>
 
 </div>
 
